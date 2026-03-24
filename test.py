@@ -1,0 +1,1 @@
+tasks = [{id: 1, 'task': 'сделать проект', 'status': 'started'}, {id: 2, 'task': 'сделать проект 2', 'status': 'done'}]
